@@ -12,3 +12,7 @@
 ```bash
 chmod +x start.sh backup.sh
 ./start.sh
+
+## 相关截图
+<img width="1379" height="707" alt="wordpress0" src="https://github.com/user-attachments/assets/49f7ee3c-0241-4d1b-99fd-f8fd685b1a73" />
+<img width="1695" height="809" alt="wordpress" src="https://github.com/user-attachments/assets/fe3708c3-a923-4732-bff6-192c28441894" />
